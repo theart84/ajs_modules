@@ -1,7 +1,7 @@
 import Character from './domain';
 
 export default class Game {
-  static start() {
+  start() {
     console.log('game started');
   }
 }
